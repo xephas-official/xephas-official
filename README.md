@@ -4,7 +4,7 @@ This is my other profile where I host my personal projects and other works that 
 
 - My main profile is [@capps096github](https://github.com/capps096github)
 
-![Xephas Cover Image](images/cover.webp)
+![Xephas Cover Image](https://raw.githubusercontent.com/capps096github/capps096github/refs/heads/main/images/cover.webp)
 
 ## About Xephas (Me)
 
@@ -20,7 +20,7 @@ Email: [hello@xephas.me](mailto:hello@xephas.me)
 
 GitHub: [@capps096github](https://github.com/capps096github) or [@xephas-official](https://github.com/xephas-official)
 
-PlayStore (APTA CONSULTS LIMITED): [APTA CONSULTS LIMITED](https://play.google.com/store/apps/dev?id=8238184494150117614)
+PlayStore (APTA INNOVATIONS): [APTA INNOVATIONS](https://play.google.com/store/apps/dev?id=8238184494150117614)
 
 Twitter: [@xephas_official](https://x.com/xephas_official)
 
